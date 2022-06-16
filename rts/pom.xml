@@ -83,7 +83,6 @@ Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
           <jdk>[11,)</jdk>
         </activation>
         <properties>
-          <jvm.args.modular>--add-modules=java.se</jvm.args.modular>
 	      <version.org.jboss.spec.javax.xml.bind.jboss-jaxb-api_2.3_spec>1.0.1.Final</version.org.jboss.spec.javax.xml.bind.jboss-jaxb-api_2.3_spec>
 	    </properties>
 	    <dependencies>
